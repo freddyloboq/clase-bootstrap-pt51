@@ -1,0 +1,33 @@
+.paragraph1{
+  display: inline;
+  width: 700px;
+  border: 1px solid red;
+}
+
+.paragraph2{
+  display: inline-block;
+  width: 700px;
+  border: 1px solid red;
+}
+
+.container1 {
+  display: inline;
+  border: 1px solid red;
+}
+.sub_container{
+  display: flex;
+}
+
+.container3 {
+  /* margin: 0 100px; */
+  margin-inline: 200px;
+  display: flex;
+  justify-content: space-between;
+
+
+  border: 1px solid red;
+}
+
+.section {
+  border: 1px solid red;
+}
